@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999398679887",
+    "firebase_url": "https://pianistico-eeeed.firebaseio.com",
+    "project_id": "pianistico-eeeed",
+    "storage_bucket": "pianistico-eeeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999398679887:android:beff547ea8574f870e513a",
+        "android_client_info": {
+          "package_name": "at.leonding.pianistico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999398679887-fslfaoe0kq86s1g4dods7fua3bhlmsfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.leonding.pianistico",
+            "certificate_hash": "9640d5bed667f98c89d20c0e271318759fffee57"
+          }
+        },
+        {
+          "client_id": "999398679887-0jijtvrip11vqi9vm1tmc63cokmocl4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOl1oBvmxP0XO9uqK_k4MKt4yUvymIVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999398679887-0jijtvrip11vqi9vm1tmc63cokmocl4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
